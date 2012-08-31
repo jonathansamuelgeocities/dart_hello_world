@@ -23,7 +23,7 @@ $.print = function(obj) {
 };
 
 $.main = function() {
-  $.print('Hello World!');
+  $.print('Hello, Darterx!');
 };
 
 var $ = null;

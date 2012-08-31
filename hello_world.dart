@@ -1,3 +1,9 @@
+class HelloDartTest {
+  static testMain() {
+    print("Hello, Darterx!");
+  }
+}
+
 main() {
-    print('Hello World!');
+  HelloDartTest.testMain();
 }
